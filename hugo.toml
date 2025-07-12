@@ -1,6 +1,6 @@
-baseURL = 'https://daisies.org/'
+baseURL = 'https://somethingtiny.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Waiting...'
 theme = 'ananke'
 
 [caches]
